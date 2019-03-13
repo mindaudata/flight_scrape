@@ -1,0 +1,209 @@
+[{
+    "Date": "20190401",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "42.51",
+    "Tax": "20.46"
+}, {
+    "Date": "20190402",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "37.19",
+    "Tax": "20.46"
+}, {
+    "Date": "20190403",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "42.51",
+    "Tax": "20.46"
+}, {
+    "Date": "20190404",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "20:20",
+    "ArriveTime": "22:50",
+    "ArrivePort": "Riga",
+    "Price": "64.99",
+    "Tax": "20.46"
+}, {
+    "Date": "20190405",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "150.23",
+    "Tax": "20.46"
+}, {
+    "Date": "20190407",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "20:40",
+    "ArriveTime": "23:10",
+    "ArrivePort": "Riga",
+    "Price": "37.19",
+    "Tax": "20.46"
+}, {
+    "Date": "20190408",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "47.84",
+    "Tax": "20.46"
+}, {
+    "Date": "20190409",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "42.51",
+    "Tax": "20.46"
+}, {
+    "Date": "20190410",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "75.65",
+    "Tax": "20.46"
+}, {
+    "Date": "20190411",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "128.92",
+    "Tax": "20.46"
+}, {
+    "Date": "20190412",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "171.53",
+    "Tax": "20.46"
+}, {
+    "Date": "20190414",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "20:40",
+    "ArriveTime": "23:10",
+    "ArrivePort": "Riga",
+    "Price": "107.61",
+    "Tax": "20.46"
+}, {
+    "Date": "20190415",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "107.61",
+    "Tax": "20.46"
+}, {
+    "Date": "20190416",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "107.61",
+    "Tax": "20.46"
+}, {
+    "Date": "20190417",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "118.26",
+    "Tax": "20.46"
+}, {
+    "Date": "20190418",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "20:20",
+    "ArriveTime": "22:50",
+    "ArrivePort": "Riga",
+    "Price": "128.92",
+    "Tax": "20.46"
+}, {
+    "Date": "20190419",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "107.61",
+    "Tax": "20.46"
+}, {
+    "Date": "20190421",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "20:40",
+    "ArriveTime": "23:10",
+    "ArrivePort": "Riga",
+    "Price": "37.19",
+    "Tax": "20.46"
+}, {
+    "Date": "20190422",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "86.30",
+    "Tax": "20.46"
+}, {
+    "Date": "20190423",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "42.51",
+    "Tax": "20.46"
+}, {
+    "Date": "20190424",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "37.19",
+    "Tax": "20.46"
+}, {
+    "Date": "20190425",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "47.84",
+    "Tax": "20.46"
+}, {
+    "Date": "20190426",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "75.65",
+    "Tax": "20.46"
+}, {
+    "Date": "20190428",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "20:40",
+    "ArriveTime": "23:10",
+    "ArrivePort": "Riga",
+    "Price": "37.19",
+    "Tax": "20.46"
+}, {
+    "Date": "20190429",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "37.19",
+    "Tax": "20.46"
+}, {
+    "Date": "20190430",
+    "DepartPort": "Oslo-Gardermoen",
+    "DepartTime": "11:20",
+    "ArriveTime": "13:50",
+    "ArrivePort": "Riga",
+    "Price": "42.51",
+    "Tax": "20.46"
+}]

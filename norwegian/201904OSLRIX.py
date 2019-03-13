@@ -10,17 +10,18 @@ user_agent = {
 
 # Single request to api -> finding out which days have available flights
 # Although api is disallowed in 'robots.txt' - this is only a single request and we are not using the data directly
+daysAvailable = []
 try:
     urlApi = 'https://www.norwegian.com/api/fare-calendar/calendar?adultCount=1&destinationAirportCode=RIX&originAirportCode=OSL&outboundDate=2019-04-01&tripType=1&currencyCode=EUR&languageCode=en-BZ'
     apiRequest = requests.get(urlApi, headers=user_agent)
     apiJson = apiRequest.json()['outbound']['days']
 
-    daysAvailable = []
     for day in apiJson:
         if day['price'] > 0:
             daysAvailable.append(int(day['date'][8:10]))
 except:
     print('Api request failed')
+    daysAvailable = list(range(1, 31))
 
 
 # There are no flights on Saturdays
