@@ -1,0 +1,2718 @@
+[{
+    "totalPrice": "326.64",
+    "totalTax": "116.64",
+    "20190408": {
+        "priceId": "price_0_17_ECONBG",
+        "price": 211.79,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "07:55-09:35"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "501.99",
+    "totalTax": "131.99",
+    "20190408": {
+        "priceId": "price_0_17_ECONBG",
+        "price": 211.79,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "07:55-09:35"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "501.99",
+    "totalTax": "131.99",
+    "20190408": {
+        "priceId": "price_0_17_ECONBG",
+        "price": 211.79,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "07:55-09:35"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "501.99",
+    "totalTax": "131.99",
+    "20190408": {
+        "priceId": "price_0_17_ECONBG",
+        "price": 211.79,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "07:55-09:35"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "345.98",
+    "totalTax": "124.98",
+    "20190408": {
+        "priceId": "price_0_17_ECONBG",
+        "price": 211.79,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "07:55-09:35"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "326.64",
+    "totalTax": "116.64",
+    "20190408": {
+        "priceId": "price_0_17_ECONBG",
+        "price": 211.79,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "07:55-09:35"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "568.98",
+    "totalTax": "153.98",
+    "20190408": {
+        "priceId": "price_0_17_ECONBG",
+        "price": 211.79,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "07:55-09:35"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "523.98",
+    "totalTax": "153.98",
+    "20190408": {
+        "priceId": "price_0_17_ECONBG",
+        "price": 211.79,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "07:55-09:35"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "523.98",
+    "totalTax": "153.98",
+    "20190408": {
+        "priceId": "price_0_17_ECONBG",
+        "price": 211.79,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "07:55-09:35"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "523.98",
+    "totalTax": "153.98",
+    "20190408": {
+        "priceId": "price_0_17_ECONBG",
+        "price": 211.79,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "07:55-09:35"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "523.98",
+    "totalTax": "153.98",
+    "20190408": {
+        "priceId": "price_0_17_ECONBG",
+        "price": 211.79,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "07:55-09:35"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}, {
+    "totalPrice": "186.50",
+    "totalTax": "97.50",
+    "20190408": {
+        "priceId": "price_0_4_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "11:15-12:55"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_4_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "11:15-12:55"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_4_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "11:15-12:55"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_4_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "11:15-12:55"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "205.84",
+    "totalTax": "105.84",
+    "20190408": {
+        "priceId": "price_0_4_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "11:15-12:55"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "186.50",
+    "totalTax": "97.50",
+    "20190408": {
+        "priceId": "price_0_4_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "11:15-12:55"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "428.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_4_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "11:15-12:55"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_4_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "11:15-12:55"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_4_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "11:15-12:55"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_4_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "11:15-12:55"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_4_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "11:15-12:55"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}, {
+    "totalPrice": "186.50",
+    "totalTax": "97.50",
+    "20190408": {
+        "priceId": "price_0_0_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "15:25-17:00"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_0_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "15:25-17:00"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_0_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "15:25-17:00"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_0_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "15:25-17:00"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "205.84",
+    "totalTax": "105.84",
+    "20190408": {
+        "priceId": "price_0_0_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "15:25-17:00"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "186.50",
+    "totalTax": "97.50",
+    "20190408": {
+        "priceId": "price_0_0_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "15:25-17:00"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "428.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_0_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "15:25-17:00"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_0_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "15:25-17:00"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_0_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "15:25-17:00"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_0_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "15:25-17:00"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_0_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "15:25-17:00"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}, {
+    "totalPrice": "186.50",
+    "totalTax": "97.50",
+    "20190408": {
+        "priceId": "price_0_1_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "16:15-17:50"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_1_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "16:15-17:50"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_1_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "16:15-17:50"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_1_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "16:15-17:50"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "205.84",
+    "totalTax": "105.84",
+    "20190408": {
+        "priceId": "price_0_1_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "16:15-17:50"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "186.50",
+    "totalTax": "97.50",
+    "20190408": {
+        "priceId": "price_0_1_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "16:15-17:50"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "428.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_1_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "16:15-17:50"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_1_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "16:15-17:50"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_1_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "16:15-17:50"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_1_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "16:15-17:50"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_1_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "16:15-17:50"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}, {
+    "totalPrice": "186.50",
+    "totalTax": "97.50",
+    "20190408": {
+        "priceId": "price_0_2_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "18:20-19:55"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_2_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "18:20-19:55"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_2_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "18:20-19:55"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_2_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "18:20-19:55"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "205.84",
+    "totalTax": "105.84",
+    "20190408": {
+        "priceId": "price_0_2_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "18:20-19:55"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "186.50",
+    "totalTax": "97.50",
+    "20190408": {
+        "priceId": "price_0_2_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "18:20-19:55"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "428.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_2_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "18:20-19:55"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_2_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "18:20-19:55"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_2_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "18:20-19:55"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_2_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "18:20-19:55"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_2_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "18:20-19:55"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}, {
+    "totalPrice": "186.50",
+    "totalTax": "97.50",
+    "20190408": {
+        "priceId": "price_0_3_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "19:40-21:15"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_3_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "19:40-21:15"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_3_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "19:40-21:15"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "361.85",
+    "totalTax": "112.85",
+    "20190408": {
+        "priceId": "price_0_3_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "19:40-21:15"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "205.84",
+    "totalTax": "105.84",
+    "20190408": {
+        "priceId": "price_0_3_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "19:40-21:15"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "186.50",
+    "totalTax": "97.50",
+    "20190408": {
+        "priceId": "price_0_3_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "19:40-21:15"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "428.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_3_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "19:40-21:15"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_3_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "19:40-21:15"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_3_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "19:40-21:15"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_3_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "19:40-21:15"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "383.84",
+    "totalTax": "134.84",
+    "20190408": {
+        "priceId": "price_0_3_ECONBG",
+        "price": 71.65,
+        "depart": "ARN",
+        "stop": "",
+        "arrive": "LHR",
+        "time": "19:40-21:15"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_6_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "06:10-09:20"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_6_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "06:10-09:20"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_6_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "06:10-09:20"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_6_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "06:10-09:20"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "224.51",
+    "totalTax": "124.51",
+    "20190408": {
+        "priceId": "price_0_6_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "06:10-09:20"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_6_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "06:10-09:20"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "447.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_6_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "06:10-09:20"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_6_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "06:10-09:20"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_6_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "06:10-09:20"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_6_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "06:10-09:20"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_6_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "06:10-09:20"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_7_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "11:05-14:35"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_7_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "11:05-14:35"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_7_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "11:05-14:35"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_7_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "11:05-14:35"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "224.51",
+    "totalTax": "124.51",
+    "20190408": {
+        "priceId": "price_0_7_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "11:05-14:35"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_7_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "11:05-14:35"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "447.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_7_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "11:05-14:35"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_7_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "11:05-14:35"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_7_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "11:05-14:35"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_7_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "11:05-14:35"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_7_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "11:05-14:35"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_8_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "12:40-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_8_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "12:40-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_8_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "12:40-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_8_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "12:40-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "224.51",
+    "totalTax": "124.51",
+    "20190408": {
+        "priceId": "price_0_8_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "12:40-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_8_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "12:40-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "447.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_8_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "12:40-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_8_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "12:40-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_8_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "12:40-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_8_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "12:40-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_8_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "12:40-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_5_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "13:20-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_5_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "13:20-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_5_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "13:20-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_5_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "13:20-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "224.51",
+    "totalTax": "124.51",
+    "20190408": {
+        "priceId": "price_0_5_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "13:20-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_5_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "13:20-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "447.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_5_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "13:20-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_5_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "13:20-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_5_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "13:20-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_5_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "13:20-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_5_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "13:20-16:25"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_10_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "14:15-18:30"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_10_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "14:15-18:30"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_10_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "14:15-18:30"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_10_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "14:15-18:30"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "224.51",
+    "totalTax": "124.51",
+    "20190408": {
+        "priceId": "price_0_10_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "14:15-18:30"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_10_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "14:15-18:30"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "447.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_10_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "14:15-18:30"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_10_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "14:15-18:30"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_10_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "14:15-18:30"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_10_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "14:15-18:30"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_10_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "14:15-18:30"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_11_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "16:45-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_11_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "16:45-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_11_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "16:45-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_11_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "16:45-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "224.51",
+    "totalTax": "124.51",
+    "20190408": {
+        "priceId": "price_0_11_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "16:45-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_11_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "16:45-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "447.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_11_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "16:45-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_11_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "16:45-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_11_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "16:45-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_11_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "16:45-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_11_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "16:45-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_9_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "17:30-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_0_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "06:40-10:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_9_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "17:30-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_5_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "10:35-14:05"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_9_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "17:30-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_6_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "13:55-17:25"
+    }
+}, {
+    "totalPrice": "380.52",
+    "totalTax": "131.52",
+    "20190408": {
+        "priceId": "price_0_9_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "17:30-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_4_ECOA",
+        "price": 290.2,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "18:15-21:40"
+    }
+}, {
+    "totalPrice": "224.51",
+    "totalTax": "124.51",
+    "20190408": {
+        "priceId": "price_0_9_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "17:30-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_2_ECONBG",
+        "price": 134.19,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "19:05-22:30"
+    }
+}, {
+    "totalPrice": "205.17",
+    "totalTax": "116.17",
+    "20190408": {
+        "priceId": "price_0_9_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "17:30-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_1_ECONBG",
+        "price": 114.85,
+        "depart": "LHR",
+        "stop": "",
+        "arrive": "ARN",
+        "time": "21:05-00:30\u00a0+1\u00a0"
+    }
+}, {
+    "totalPrice": "447.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_9_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "17:30-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_14_ECOA",
+        "price": 357.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-16:45"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_9_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "17:30-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_9_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-18:30"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_9_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "17:30-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_10_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "10:20-20:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_9_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "17:30-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_8_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "15:35-23:05"
+    }
+}, {
+    "totalPrice": "402.51",
+    "totalTax": "153.51",
+    "20190408": {
+        "priceId": "price_0_9_ECONBG",
+        "price": 90.32,
+        "depart": "ARN",
+        "stop": "Oslo",
+        "arrive": "LHR",
+        "time": "17:30-21:35"
+    },
+    "20190414": {
+        "priceId": "price_1_7_ECOA",
+        "price": 312.19,
+        "depart": "LHR",
+        "stop": "Oslo",
+        "arrive": "ARN",
+        "time": "17:30-23:05"
+    }
+}]
